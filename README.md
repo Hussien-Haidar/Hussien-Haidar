@@ -16,6 +16,7 @@ As a developer with a broad skill set, I have expertise in the following technol
 - **Mobile:** Flutter, Dart
 - **Other Languages:** C++, C#, Java
 - **Third-Party Services and APIs**
+- **Firebase**
 - **Version Control:** Git, GitHub
 - **Microsoft Office:** Word, Excel, PowerPoint
 
