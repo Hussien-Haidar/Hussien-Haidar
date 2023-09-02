@@ -1,7 +1,5 @@
 # Welcome to @Hussien-Haidar's GitHub! 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Hussien-Haidar&label=Profile%20views&color=0e75b6&style=flat"
-    alt="HussieN" /> 
-  </p>
+
 👋 Hi there! I'm Hussein Haidar, a passionate MERN Full Stack Developer with hands-on experience in the Flutter framework, as well as a diverse skill set in other technologies. Here, you'll find a collection of projects and code samples that showcase my skills in various programming languages and tools.
 
 ## About Me
