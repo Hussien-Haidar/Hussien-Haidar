@@ -20,7 +20,7 @@ As a developer with a broad skill set, I have expertise in the following technol
 Feel free to explore the repositories and dive into the code. Don't hesitate to provide feedback, suggestions, or even collaborate on any of the projects.
 
 ## Contact
-I'm always open to new opportunities and collaborations. You can reach me via email at [hussienhaidar20@gmail.com](mailto:hussienhaidar20@gmail.com) 
+I'm always open to new opportunities and collaborations. You can reach me via email at [hussienhaidar300@gmail.com](mailto:hussienhaidar300@gmail.com) 
 
 #### 📫 Reach Me on:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Hussien-Haidar)
